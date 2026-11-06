@@ -1,0 +1,17 @@
+{
+  "drawings_after_cleaning": 300,
+  "users": 40,
+  "inactive_users": 1,
+  "cleaning": {
+    "drawing numbers normalized": 15,
+    "revision formats normalized": 238,
+    "duplicate records removed": 12
+  },
+  "grants_checked": 12000,
+  "current_grants": 8171,
+  "excessive_rights": 18,
+  "missing_rights": 31,
+  "rights_held_by_inactive_users": 114,
+  "supplier_rights_above_internal": 5,
+  "cleanup_actions": 163
+}
